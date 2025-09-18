@@ -37,9 +37,9 @@ O arquivo principal com os exemplos práticos é `app/src/main/java/br/com/ppi/f
 Gostaria de agradecer especialmente:
 
 *   **Aos professores e instrutores:**
-    *   Anderson Fernandes
     *   Stefferson Lira
     *   Felipe Abrantes
+    *   Neemias
 *   **À Raissa** (RH Zoom) pelo suporte e organização.
 *   **À Venturus** pela oportunidade de aprendizado e por fornecer este programa de capacitação.
 
