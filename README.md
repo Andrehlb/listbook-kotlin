@@ -19,7 +19,7 @@ O arquivo principal com os exemplos práticos é `app/src/main/java/br/com/ppi/f
 ## 🚀 Como Usar os Exemplos
 
 1.  **Clone o repositório:**
-2.  **Abra o projeto no Android Studio.**
+2.  **Abra o projeto no Android Studio.** (É recomendado ter o Android Studio instalado.)
 3.  **Navegue até o arquivo `Contacts.kt`:**
     Localizado em `app/src/main/java/br/com/ppi/flutter/listbook/mycontacts/Contacts.kt`.
 4.  **Para testar um exemplo específico:**
@@ -47,8 +47,14 @@ E a todos os colegas de turma pela jornada de aprendizado conjunta!
 
 ## 🛠️ Estrutura do Arquivo `Contacts.kt`
 
-O arquivo `Contacts.kt` está organizado com comentários indicando os slides da aula aos quais os blocos de código se referem. Por exemplo:
-
+O arquivo `Contacts.kt` está organizado com comentários indicando os slides da aula aos quais os <br> blocos de código se referem. Por exemplo:
+```
+// --- 🔹 Slide 12 – Expressões em Kotlin --- /* fun main() { // Código do exemplo do slide 12 aqui // ... } */
+// --- 🔹 Slide 17 – Parâmetros padrão --- /* fun main() { // Exemplo de chamada da função do slide 17 /
+/ showContactsWithDefaults(listOf(Contact("Carol", "555-0004")), prefix = ">>") }private fun showContactsWithDefaults( contacts: List<Contact>, details: Boolean = false, 
+// Parâmetro padrão prefix: String = "" 
+// Parâmetro padrão ) { // Implementação da função auxiliar do slide 17... } */
+```
 ---
 
 *Repositório criado por André Luiz Barbosa (Andrehlb) como parte dos estudos da aula de Kotlin.*
