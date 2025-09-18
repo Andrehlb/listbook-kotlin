@@ -40,7 +40,6 @@ Gostaria de agradecer especialmente:
     *   Anderson Fernandes
     *   Stefferson Lira
     *   Felipe Abrantes
-    *   (Sinta-se à vontade para adicionar outros nomes ou corrigir, André!)
 *   **À Raissa** (RH Zoom) pelo suporte e organização.
 *   **À Venturus** pela oportunidade de aprendizado e por fornecer este programa de capacitação.
 
