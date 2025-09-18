@@ -38,7 +38,7 @@ Gostaria de agradecer especialmente:
 
 *   **Aos professores e instrutores:**
     *   Stefferson Lira
-    *   Felipe Abrantes
+    *   Anderson Fernandes
     *   Neemias
 *   **À Raissa** (RH Zoom) pelo suporte e organização.
 *   **À Venturus** pela oportunidade de aprendizado e por fornecer este programa de capacitação.
